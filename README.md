@@ -1,2 +1,4 @@
 # maihome-koshara
-add info
+
+student: Your name
+mentor: Menotor's name
