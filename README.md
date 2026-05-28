@@ -1,1 +1,2 @@
 # maihome-koshara
+add info
